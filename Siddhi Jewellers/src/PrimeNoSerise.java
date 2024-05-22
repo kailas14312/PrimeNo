@@ -16,6 +16,7 @@ public class PrimeNoSerise {
 				System.out.println(i);
 			}else counter = 0;
 		}
+		System.out.println("this is kailas");
 	}
 
 }
