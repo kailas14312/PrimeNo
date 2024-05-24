@@ -31,6 +31,6 @@ public class Map11 {
 		}
 		else
 			System.out.println("not prime");
-
+            System.out.println("kailas dahiwal");
 	}
 }
